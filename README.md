@@ -11,6 +11,8 @@ This is a simple web application that allows users to create a story by selectin
 1. Open the `Index.html` file in a web app or chrome or browser.
 2. Click on each button to select parts of your story (subject, verb, etc.).
 3. Once all parts are selected, click "Generate Story" to see your story.
+4. In addition, after generating we can make a random story by click on random story button.
+5. In the end , if we want to reset the previous story so we can click on reset button and then start to generate the story from initial.
 
 ## Files Included
 - `Index.html`: The main HTML structure of the page.
